@@ -41,7 +41,7 @@ __Melhoria 1__, _melhoria 2_
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
-Contribuidor principal https://www.github.com/eduardometestaine
+Contribuidor principal: https://www.github.com/eduardometestaine
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png)](https://www.github.com/eduardometestaine)
 
@@ -52,3 +52,10 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+## Lista de tarefas a fazer
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [ x ] CSS do rodapé
